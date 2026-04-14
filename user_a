@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class user_a {
+    private static ArrayList<String> notes = new ArrayList<>();
+    private static Scanner scanner = new Scanner(System.in);
+
+    public static void(String[] args) {
+
+
+    }
+    }
